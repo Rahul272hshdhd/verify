@@ -17,7 +17,7 @@ on:
 permissions:
   contents: read
 
-jobs:
+jobs:[![Deno](https://github.com/Gtnail11/verify/actions/workflows/deno.yml/badge.svg?branch=main&event=check_run)](https://github.com/Gtnail11/verify/actions/workflows/deno.yml)
   test:
     runs-on: ubuntu-latest
 
